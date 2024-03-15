@@ -19,7 +19,7 @@
     height:100%;
     width:100%;
     transform-style: preserve-3d;
-   
+    z-index: -1;
 }
 
 .background{
@@ -34,6 +34,6 @@
     position: absolute;
     height: 100%;
     width:100%;
-   
+    z-index: -1;
 
 }
