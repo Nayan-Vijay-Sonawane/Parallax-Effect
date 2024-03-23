@@ -38,3 +38,13 @@
     z-index: -1;
 
 }
+
+h1{
+    position:absolute;
+    font-size: 10rem;
+    /* font-family: cursive; */
+    top:5rem;
+    letter-spacing: 4px;
+    color:white;
+    text-shadow: 0 0 10 rgb(0, 0, 0, 0.3);
+}
