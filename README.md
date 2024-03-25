@@ -23,9 +23,8 @@ This repository contains the code for a parallax website. The parallax effect cr
    Open index.html in your preferred web browser.
    ```
 3. **Running the Website:**
-    ```
+    
 - [https://nayan-sonawane-parallax-effect.netlify.app/](https://nayan-sonawane-parallax-effect.netlify.app/)   
-    ```
 
 ## Usage
 
