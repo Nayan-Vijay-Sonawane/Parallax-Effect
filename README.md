@@ -1,5 +1,4 @@
 # Parallax Effect
-# Parallax Website Readme
 
 ## Overview
 
